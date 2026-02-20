@@ -125,7 +125,7 @@ nextjs-ecommerce-store/
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd nextjs-ecommerce-store-1
+   cd nextjs-ecommerce-store
    ```
 
 2. **Install dependencies**
